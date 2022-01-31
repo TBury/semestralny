@@ -1,0 +1,12 @@
+release/endscreen.o
+release/main.o
+release/mainwindow.o
+release/payment.o
+release/select_discounts.o
+release/showconnections__.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_endscreen.o
+release/moc_mainwindow.o
+release/moc_payment.o
+release/moc_select_discounts.o
+release/moc_showconnections__.o
